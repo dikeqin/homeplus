@@ -1,1 +1,3 @@
-function test(){}
+function test(){
+ alter("helloworld!");
+}
